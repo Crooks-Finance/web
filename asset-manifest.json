@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.4290ac14.css",
-    "main.js": "/static/js/main.85f2d266.js",
+    "main.js": "/static/js/main.7ea60861.js",
     "static/js/737.dd6aeabb.chunk.js": "/static/js/737.dd6aeabb.chunk.js",
     "static/media/crooks-whitepaper.pdf": "/static/media/crooks-whitepaper.f5cdfa16a3fb433c48b8.pdf",
     "index.html": "/index.html",
     "main.4290ac14.css.map": "/static/css/main.4290ac14.css.map",
-    "main.85f2d266.js.map": "/static/js/main.85f2d266.js.map",
+    "main.7ea60861.js.map": "/static/js/main.7ea60861.js.map",
     "737.dd6aeabb.chunk.js.map": "/static/js/737.dd6aeabb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4290ac14.css",
-    "static/js/main.85f2d266.js"
+    "static/js/main.7ea60861.js"
   ]
 }

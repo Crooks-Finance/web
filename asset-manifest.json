@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dapp/static/css/main.4290ac14.css",
-    "main.js": "/dapp/static/js/main.95f8580d.js",
-    "static/js/737.8846480d.chunk.js": "/dapp/static/js/737.8846480d.chunk.js",
-    "static/media/crooks-whitepaper.pdf": "/dapp/static/media/crooks-whitepaper.f5cdfa16a3fb433c48b8.pdf",
-    "index.html": "/dapp/index.html",
-    "main.4290ac14.css.map": "/dapp/static/css/main.4290ac14.css.map",
-    "main.95f8580d.js.map": "/dapp/static/js/main.95f8580d.js.map",
-    "737.8846480d.chunk.js.map": "/dapp/static/js/737.8846480d.chunk.js.map"
+    "main.css": "/static/css/main.4290ac14.css",
+    "main.js": "/static/js/main.f495d465.js",
+    "static/js/737.dd6aeabb.chunk.js": "/static/js/737.dd6aeabb.chunk.js",
+    "static/media/crooks-whitepaper.pdf": "/static/media/crooks-whitepaper.f5cdfa16a3fb433c48b8.pdf",
+    "index.html": "/index.html",
+    "main.4290ac14.css.map": "/static/css/main.4290ac14.css.map",
+    "main.f495d465.js.map": "/static/js/main.f495d465.js.map",
+    "737.dd6aeabb.chunk.js.map": "/static/js/737.dd6aeabb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4290ac14.css",
-    "static/js/main.95f8580d.js"
+    "static/js/main.f495d465.js"
   ]
 }
